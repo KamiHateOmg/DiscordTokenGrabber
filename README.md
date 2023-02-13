@@ -1,5 +1,8 @@
 # Discord token grabber in Python !
 Si jamais tu n'as pas python, il y a un .exe qui va installer python et lancer le script !
+# Comment faire ?
+Pour ce faire, lancez atio.py, si vous avez python. 
+Si vous n'avez pas python, lancez le start_tool.exe.
 # Preview
 ![image](https://user-images.githubusercontent.com/105600885/218357445-2b6b5cfc-d72a-4e83-8d51-82660339400d.png)
 # Help
